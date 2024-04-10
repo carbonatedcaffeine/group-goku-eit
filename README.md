@@ -1,3 +1,3 @@
-This is a demo website created in Agile project. Camden Bruce 
+# Group Goku development project:
+This is the Github repository for the development team working on our ecomerce website.
 
-# Testing branch
